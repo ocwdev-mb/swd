@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/star-wars-day/file1.pdf
+file: /courses/504-star-wars-day-spring-2033/file1.pdf
 file_type: application/pdf
 image_metadata:
   caption: ''

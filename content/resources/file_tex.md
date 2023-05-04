@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/star-wars-day/file.tex
+file: /courses/504-star-wars-day-spring-2033/file.tex
 file_type: text/x-tex
 image_metadata:
   caption: ''

@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/star-wars-day/file.docx
+file: /courses/504-star-wars-day-spring-2033/file.docx
 file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 image_metadata:
   caption: ''
