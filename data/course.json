@@ -1,0 +1,29 @@
+{
+  "term": "Spring",
+  "year": "2033",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "star-wars-day"
+  },
+  "course_image": {
+    "content": "",
+    "website": "star-wars-day"
+  },
+  "course_title": "Star Wars Day",
+  "course_description": "May the 4th be with you",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "504",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "star-wars-day"
+  },
+  "learning_resource_types": [],
+  "site_uid": "bd1e316f-2e9c-4d01-9c48-61b97605906c",
+  "site_short_id": "swd"
+}
