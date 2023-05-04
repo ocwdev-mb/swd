@@ -25,6 +25,6 @@ uid: d87a07a5-76fc-4cca-b1d7-1ae7497bd97f
 
 {{% resource_link "f0a4898b-1b1c-41a1-aede-d4924dd9e798" "file.docx" %}}
 
- 
+{{% resource_link "48269058-c050-4039-80a4-5c3ac608bd3f" "hike.jpg" %}}
 
 {{% resource_link "dca3b485-7741-4017-9c94-e0e08fb184aa" "file.mp4" %}}
